@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cold-carmel
 - 👀 I’m interested in learning python and java
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on sb mod projects
+- 💞️ I’m looking to start a big project sometime
 - 📫 How to reach me: cold_carmel#1614 on discord
 
 <!---
