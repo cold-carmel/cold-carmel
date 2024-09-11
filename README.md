@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cold-carmel
-- 👀 I’m interested in learning python and java
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to start a big project sometime
+- 👀 I’m interested in learning atmospheric pretiction models & fortran
+- 🌱 I’m currently learning meteorology and computational science
+- 💞️ I’m looking to help conduct forecasting model research
 - 📫 How to reach me: cold_carmel#1614 on discord
 
 <!---
