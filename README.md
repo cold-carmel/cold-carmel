@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cold-carmel
 - 👀 I’m interested in learning atmospheric pretiction models & fortran
-- 🌱 I’m currently learning meteorology and computational science
+- 🌱 I’m currently learning meteorology, computational science, and game dev
 - 💞️ I’m looking to help conduct forecasting model research
 - 📫 How to reach me: cold_carmel#1614 on discord
 
